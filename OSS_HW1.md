@@ -4,7 +4,7 @@
 **팀원** :  
 &nbsp;&nbsp;&nbsp; 전공 / 학번 / 이름 (github 이름)  <!-- 각자 채워주세요 -->  
 &nbsp;&nbsp;&nbsp; 전공 / 학번 / 이름 (github 이름)  
-&nbsp;&nbsp;&nbsp; 전공 / 학번 / 이름 (github 이름)  
+&nbsp;&nbsp;&nbsp; 미디어커뮤니케이션학과 / 2023036037 / 박성은 (pseun1017)  
 &nbsp;&nbsp;&nbsp; 컴퓨터학부 / 2022111363 / 시연우 (Village-GG-Water)  
 &nbsp;&nbsp;&nbsp; 전기공학과 / 2019116513 / 최찬현 (john1816)  
 
